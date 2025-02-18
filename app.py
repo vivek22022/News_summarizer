@@ -40,7 +40,7 @@ def summarize():
 
 root = tk.Tk()
 root.title("News Summarizer")
-root.geometry('1200x600')
+root.geometry('1200x650')
 
 tlabel = tk.Label(root, text="Title")
 tlabel.pack()
