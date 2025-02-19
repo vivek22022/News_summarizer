@@ -44,7 +44,7 @@ def summarize():
             except Exception as e:
                 st.error(f"Invalid URL")
 
-    st.markdown("<p style='text-align: center; font-size: 16px;'>👨‍💻 Made by <b>Yashwanth</b></p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: center; font-size: 16px;'>👨‍💻 Made by <b>Vivek</b></p>", unsafe_allow_html=True)
 
 if __name__ == "__main__":
     st.title("📰 News Summarizer")
