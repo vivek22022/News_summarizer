@@ -3,3 +3,4 @@ streamlit
 newspaper3k
 textblob
 nltk
+lxml[html_clean]
