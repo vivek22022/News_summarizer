@@ -1,4 +1,5 @@
 Python 3.10+
+streamlit
 newspaper3k
 textblob
 nltk
