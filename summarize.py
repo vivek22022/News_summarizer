@@ -1,7 +1,9 @@
 import streamlit as st
-import nltk
-from textblob import TextBlob
 from newspaper import Article
+from textblob import TextBlob
+import nltk
+
+nltk.download('punkt')
 
 def summarize():
     url = st.text_input("Enter the URL of the news article")
